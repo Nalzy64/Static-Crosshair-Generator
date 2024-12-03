@@ -1,5 +1,5 @@
 # Static Crosshair Generator
-An application that allows you to use fully customizable crosshair in games that do not have it.
+An application that allows you to use fully customizable crosshair in games that do not have one.
 
 # Download
 Download from [releases](https://github.com/elefelen/Static-Crosshair-Generator/releases).
